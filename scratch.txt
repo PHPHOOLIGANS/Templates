@@ -1,0 +1,4 @@
+
+    http://www.rutgers.edu/about-rutgers/demystifying-comp-sci
+    
+    "Eternal September of programming"
