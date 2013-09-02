@@ -2,3 +2,5 @@
     http://www.rutgers.edu/about-rutgers/demystifying-comp-sci
     
     "Eternal September of programming"
+    
+    http://thinkrelevance.com/blog/2007/05/17/design-patterns-are-code-smells
