@@ -73,7 +73,7 @@ With this in mind, rule number six becomes:
 I am reminded of the more common naming conventions, to use nouns for naming your 
 Classes and verbs for naming your Class Methods.
 
-There are many respurce that go on (at length) about thhis sort of thing. Books 
+There are many resources that go on (at length) about this sort of thing. Books 
 like "Clean Code" have entire chapters detailing the rational behind this.
 
 So how do we change this rule so it scales from a naming convention to a coding
