@@ -11,7 +11,7 @@ development are not new. They've probably already been solved in other areas of
 expertise. As the largest problem in programming is communication, we are lucky 
 to have many sources to base our solutions on.
 
-One of the sources that we think can be beneficial George Orwell's "Politics and 
+One of the sources that we think can be beneficial is George Orwell's "Politics and 
 the English Language" in which he proposes six rules to help people write neater 
 and more understandable text:
 
