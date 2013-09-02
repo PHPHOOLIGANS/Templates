@@ -6,7 +6,7 @@
         - API inconsistencies (cross language consistent/use an IDE like an adult)
         
 # Pick your fight / Throwing stones
-    We will confront you on any of the following subjects until out time to speak runs out:        
+    We will confront you on any of the following subjects until our time to speak runs out:        
         - Design Patterns (the devil loves them!/design patterns are a code smell)
         - Strict typing is not animal friendly! All types should be duck (type hints === tight coupling)
         - Everything is string! (your input is a string, your output is a string, aren't you lucky everything inbetween is too?)
