@@ -28,7 +28,7 @@ all levels of software creation (yes, I said ALL. Good rules scale, remember?)
  Breaking it down step by step 
 -------------------------------
 
-With little bit of effort these rules can just as easily be addapted to coding 
+With a little bit of effort these rules can just as easily be addapted to coding 
 conventions.
 
 
@@ -50,7 +50,7 @@ jargon word?
 
 ### Rules 2 and 3 and 6
 
-If we substitute the word "word" in rules twoo and three and the word "say" in 
+If we substitute the word "word" in rules two and three and the word "say" in 
 rule six for the word "code" (and edit for the sake of sanity and readability), 
 these rules still hold their own.
 
@@ -61,7 +61,7 @@ but the code that does not work. Poorly written, bug-ridden, brittle code can
 cripple a project, a code-base, or even an entire company. Well behaved code 
 is code that works like it should, with clearly defined and predictable behaviour. 
 
-With this in minde, rule number six becomes:
+With this in mind, rule number six becomes:
 
 > Break any of these rules sooner than code anything outright barbarous.
 -->
