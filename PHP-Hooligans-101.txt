@@ -1,0 +1,22 @@
+
+# PHP Intro
+    It is awesome because:
+        - There is no design (We are borg)
+        - Backwards compatible
+        - API inconsistencies (cross language consistent/use an IDE like an adult)
+        
+# Pick your fight / Throwing stones
+    We will confront you on any of the following subjects until out time to speak runs out:        
+        - Design Patterns (the devil loves them!/design patterns are a code smell)
+        - Strict typing is not animal friendly! All types should be duck (type hints === tight coupling)
+        - Everything is string! (your input is a string, your output is a string, aren't you lucky everything inbetween is too?)
+        - Avoid objects (see previous rant) and - Arrays are your friend! (objects are shared state == tight coupling)
+        - OOP (You're doing it wrong)
+            - Composition OVER Inheritance (duh!)
+        - PHP is the only true Framework. All others are solving a problem you don't have. Components MothaFucka!
+            - Frameworks are no substitute for architucture
+        - URL routing is usually just another form of tight coupling (your Code API is now a Public Web API. Good luck with that one).
+        - Write more Tests, write less Code
+       
+# Strong Opinions, Loosely Held
+
