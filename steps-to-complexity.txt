@@ -22,6 +22,6 @@ Level of Complexity
 
 
 There are no rules, merely guidelines. 
-Also, there will always exceptions to rules, so rules are per definition meant to be broken.
+Also, there will always be exceptions to rules, so rules are per definition meant to be broken.
 
 There is only one rule: DOES IT WORK? DOES IT FIX THE PROBLEM?
