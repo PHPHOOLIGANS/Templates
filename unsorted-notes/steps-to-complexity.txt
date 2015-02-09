@@ -1,5 +1,4 @@
 
-
 ================================================================================
 Level of Complexity
 --------------------------------------------------------------------------------
@@ -14,10 +13,10 @@ Level of Complexity
     5. Use namespaces to create package-style containers    (seperation of concerns)
 
 --------------------------------------------------------------------------------
-    
+
     6. Use objects and accompanying mechanisms to keep complexity managable (complexity)
     7. Class hierarchy (inheritance over composition)
-    
+
 ================================================================================
 
 
@@ -25,3 +24,5 @@ There are no rules, merely guidelines.
 Also, there will always be exceptions to rules, so rules are per definition meant to be broken.
 
 There is only one rule: DOES IT WORK? DOES IT FIX THE PROBLEM?
+
+#EOF
