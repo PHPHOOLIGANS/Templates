@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf8" />
+
+	<title>PHPHOOLIGANS</title>
+	<link rel="stylesheet" href="../fonts/OpenDyslexicAlta/OpenDyslexicAlta.css" />
+	<style>
+		article {
+			position: absolute;
+
+			width: 96.5em;
+			left: -48.25em;
+			margin-left: 50%;
+
+			height: 52em;
+			top: 50%;
+			margin-top: -26em;
+		}
+
+		.block {
+			width: 8em;
+			height: 7em;
+			position: relative;
+			margin: 0.5em;
+			background-color: #FFC;
+			border-radius: 0.1em;
+			box-shadow: 0.1em 0.1em 0.25em #CCC;
+			float: left;
+			font-size: 2.15em;
+			text-align: center;
+			font-family: 'opendyslexicaltaregular',sans-serif;
+
+			display: table;
+			overflow: hidden;
+			padding: 0 1em;
+		}
+
+			.block > span {
+				display: table-cell;
+				vertical-align: middle;
+				width: 100%;
+				margin: 0 auto;
+				text-align: center;
+			}
+
+			.block > a {
+				color: inherit;
+				text-decoration: none;
+			}
+
+		footer {
+			position: absolute;
+			bottom: 1em;
+			right: 1em;
+			font-family: "arial", sans-serif;
+			font-size: 75%;
+			color: rgb(125,125,125);
+		}
+
+			footer a {
+				color: rgb(25,25,25);
+			}
+	</style>
+</head>
+<body>
+
+{% for currentPage in site.pages %}
+	<article>
+		<div class="block">
+			<span>
+				<a href="{{ currentPage.url }}">
+					{{ currentPage.title }}
+				</a>
+			</span>
+		</div>
+	</article>
+{% endfor %}
+
+	<footer>
+		Uses OpenDyslexic, available at <a href="http://dyslexicfonts.com/">http://dyslexicfonts.com/</a>
+	</footer>
+</body>
+</html>

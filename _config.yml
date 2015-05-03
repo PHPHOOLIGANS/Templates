@@ -1,0 +1,19 @@
+# Where things are
+source:      .
+# collections: null
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "home"
+
+  -
+    scope:
+      path: "/fights/"
+      #type: "page"
+    values:
+      layout: "fights-overview"
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'website']
